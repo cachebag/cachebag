@@ -7,12 +7,7 @@ Scalable data pipelines, architectural frameworks, ETL process design, logical d
 Part of an 11-member team organizing and hosting events, orchestrating workshops, coordinating certification programs and helping students gain real experience on real projects built for the open-source community.
 <br>
 <br>
-*Follow our organization below and stay tuned for upcoming projects you can be involved in as a student at WSU.*
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/AWS-WSU" height="100">
-  <h3 align="center">AWS-WSU</h3>
-  <p align="center">Amazon Web Services at Wayne State University</p>
-</p>
+*[Follow our organization](https://github.com/AWS-WSU) and stay tuned for upcoming projects you can be involved in as a student at WSU.*
 
 ## Contact
 alhakimiakrmj@gmail.com
