@@ -4,7 +4,7 @@ cachebag
 Embedded systems development, software validation, automating test frameworks, and managing test configurations. Working in ePowertrain and Traction Engineering department
 
 ### <img src="https://media.licdn.com/dms/image/v2/C560BAQER_QnUTXrPJw/company-logo_100_100/company-logo_100_100/0/1670264051233/amazon_web_services_logo?e=1746057600&v=beta&t=utbJOKV3kEN4odkemVy1UlMV7aE5FonqmVbftJJ9e2U" alt="Cummins Inc Logo" width="26" height="26" /> | **President, AWS Cloud Computing Club at Wayne State University**  
-Leading a team of 11 students organizing and hosting events, orchestrating workshops, coordinating certification programs and helping students gain real experience on real projects built for the open-source community.
+Leading a team of 15 students organizing and hosting events, orchestrating workshops, coordinating certification programs and helping students gain real experience on real projects built for the open-source community.
 <br>
 <br>
 *[Follow our organization](https://github.com/AWS-WSU) and stay tuned for upcoming projects you can be involved in as a student at WSU.*
