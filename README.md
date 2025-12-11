@@ -6,7 +6,8 @@ Currently working on ...
 - [warrior-bot](https://github.com/AWS-WSU/warrior-bot)
 - [rustup](https://github.com/rust-lang/rustup)
 - [zbus](https://github.com/z-galaxy/zbus)
-<br>
+
+# 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Wayne_State_Warriors_primary_logo.svg" width="20" height="20" style="vertical-align:middle;"/> College of Engineering @ Wayne State University
 <br>
